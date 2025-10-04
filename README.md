@@ -15,13 +15,10 @@ XYZ Store is a group project developed as part of our mobile development course.
 ## 🚀 Features
 
 - 📦 Product listing with categories
-- 🔍 Search functionality
 - 🎨 Beautiful gradient headers and animations
 - 📱 Responsive design for all screen sizes
-- 🔄 Pull-to-refresh functionality
 - 📊 Real-time product statistics
 - 🎯 Product detail views
-- 🌙 Dark/Light theme support
 
 ## 🛠️ Tech Stack
 
